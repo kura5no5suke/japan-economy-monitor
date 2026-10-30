@@ -3,7 +3,13 @@
 日本経済の主要指標を継続的に観測し、景気の変化やリスクを分かりやすく整理するための実験的な経済モニタリングプロジェクトです。
 
 ## Public Beta
+## DOI
 
+**Current version (v0.1.0-beta):**  
+https://doi.org/10.5281/zenodo.23802945
+
+**All versions:**  
+https://doi.org/10.5281/zenodo.23802944
 **Version:** `v0.1.0-beta`
 
 本リポジトリは、Japan Economy Monitor の**公開説明用リポジトリ**です。
