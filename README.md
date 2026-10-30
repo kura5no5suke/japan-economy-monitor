@@ -1,8 +1,11 @@
 # Japan Economy Monitor 🇯🇵
+
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23802945.svg)](https://doi.org/10.5281/zenodo.23802945)
+
 日本経済の主要指標を継続的に観測し、景気の変化やリスクを分かりやすく整理するための実験的な経済モニタリングプロジェクトです。
 
 ## Public Beta
+
 ## DOI
 
 **Current version (v0.1.0-beta):**  
